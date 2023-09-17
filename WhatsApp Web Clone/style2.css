@@ -1,0 +1,152 @@
+*{
+    padding: 0;
+    left: 0;
+    right: 0;
+    margin: 0;
+}
+
+.nav{
+    height: 230px;
+    background:#00a884
+}
+
+body {
+    height: 1100px;
+    background: #eae6df;
+}
+
+.wp-logo{
+    height: 40px;
+    margin-top: 30px;
+    margin-left: 10rem;
+}
+
+.wp-title {
+    color: white;
+    font-size: 14px;
+    font-family: "Segoe UI", "Helvetica Neue", Helvetica, "Lucida Grande", "Arial", ubuntu, Cantarell, "Fira Sans", sans-serif;
+    font-weight: bold;
+    position: relative;
+    top: -16px;
+    left: 18px;
+}
+
+.main{
+    height: 900px;
+    background: #ffffff;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+    border-radius: 3px;
+    box-shadow: 0 6px 12px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/*-----------------Footer------------------*/
+.footer {
+    padding-bottom: auto;
+    background: #f7f9fa;
+}
+
+.tut{
+    text-align: center;
+    padding-top: 40px;
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: normal;
+}
+
+.help{
+    text-align: center;
+    padding-top: 15px;
+}
+a{
+    color: #009776;
+    text-decoration: none;
+}
+
+.footer img{
+    padding-top: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+
+/*------------------CSS For second Login Page--------------------*/
+.num{
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 10px;
+}
+
+.main p {
+    text-align: center;
+}
+
+.countrySelect{
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 20px;
+
+}
+select {
+    width: 150px;
+    margin: 10px;
+}
+
+.phone-box {
+    width: 300px;
+    padding-top: 0px;
+   padding-left: 350px;
+   padding-bottom: 20px;
+    background-color: #fff;
+
+}
+
+input[type="tel"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+
+
+
+.button {
+    text-align: center;
+}
+
+.next-button {
+    padding: 10px 20px;
+    background-color:#00a884;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.next-button:hover {
+    background-color: #019272;
+}
+
+.link {
+    padding-top: 30px;
+    padding-left: 420px;
+    padding-bottom: 20px;
+    color: #009776;
+    font-size: 20px;
+}
+
+
+video{
+    padding-top: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
